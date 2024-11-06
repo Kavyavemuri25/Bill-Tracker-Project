@@ -1,0 +1,7 @@
+body{
+  background: black;
+background-image:url('bg6.jpg');
+background-repeat:repeat;
+background-attachment:scroll;
+background-size:100%;
+}

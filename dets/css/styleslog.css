@@ -1,0 +1,14 @@
+body{
+  background: black;
+background-image:url('bglog.jpg');
+background-repeat:repeat;
+background-attachment:scroll;
+background-size:100%;
+}
+h1{
+  text-align: center;
+  font-size: 40px;
+}
+.badge badge-default{
+  font-size: 10px;
+}
